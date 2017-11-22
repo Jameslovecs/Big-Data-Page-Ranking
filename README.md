@@ -62,7 +62,3 @@ $ hadoop jar pr.jar Driver /transition /pagerank /output 5 0.8
 * args2: dir of unitMultiplication result
 * args3: times of convergence
 * args4: value of beta
-
-
-# Screenshot
-<img src="https://github.com/Jameslovecs/Big-Data-Page-Ranking/blob/master/Page%20Ranking.jpg"/>
